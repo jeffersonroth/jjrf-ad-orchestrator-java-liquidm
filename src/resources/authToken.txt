@@ -1,0 +1,4 @@
+{
+    "auth_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDAxMTc5LCJhcGkiOjR9.uwmousg52wwWnnvofXM7Xn_rAm9Q9dch6kA5602iCQE",
+    "user_id": 1001179
+}
